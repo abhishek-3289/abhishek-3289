@@ -1,42 +1,25 @@
 ### Hi there 👋
 
-## I'm a student and developer!
-- 🔭 I’m currently working on Adv. Java, Relational/Non Relational db and other frameworks 
-- 🌱 I’m currently learning Agent programming
-- 👯 I’m looking to collaborating with other startup companies
-- 🤔 I’m looking for help with core system developer
-- 💬 Ask me about anything 
-- 📫 How to reach me: **Abhishekb@unifytech.com** 
-- ⚡ Fun fact: I love watch anime and read manga
+## I'm Abhishek, an Android engineer
 
+- 📱 I build Android apps with Kotlin, Jetpack Compose and Clean Architecture
+- ⚙️ I like automating release chores with Gradle and GitHub Actions
+- 🌱 I'm currently learning agent programming
+- ⚡ Fun fact: I love watching anime and reading manga
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-display.yanki786.vercel.app/api/spotify)][spotify]
+### Projects 🧰
 
-<br/>
+| Project | What it does |
+|:--------|:-------------|
+| [android-version-increment](https://github.com/abhishek-3289/android-version-increment) | GitHub Action that bumps an Android app's semantic version from the latest git tag via Gradle. |
+| [milestone-version-increment](https://github.com/abhishek-3289/milestone-version-increment) | GitHub Action that creates the next semver milestone, with optional due date and description. |
 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="JAVA" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="spring" width="26px" src="https://simpleicons.org/icons/spring.svg"/>
-<img align="left" alt="gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png"/>
-<img align="left" alt="oracle" width="26px" src="https://simpleicons.org/icons/oracle.svg" />
-<img align="left" alt="json" width="26px" src="https://simpleicons.org/icons/json.svg"  />
-<img align="left" alt="jsonwebtokens" width="26px" src="https://simpleicons.org/icons/jsonwebtokens.svg"  />
-<img align="left" alt="sqlite" width="26px" src="https://simpleicons.org/icons/sqlite.svg"  />
-<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"  />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+### Languages and Tools 🛠️
 
-<br/>
+[![Languages and tools](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,githubactions,git,sqlite,spring&perline=8)](https://skillicons.dev)
 
-<!--START_SECTION:activity-->
-<br>
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-3289&hide=contribs,prs&count_private=true&show_icons=true&hide_border=true&custom_title=Stats" />
+  <summary>⚡ GitHub Stats</summary>
+  <br/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-3289&hide=contribs,prs&count_private=true&show_icons=true&hide_border=true&custom_title=Stats" />
 </details>
-<br/>
-
-[spotify]:https://open.spotify.com/user/312l4w6qr6k7ztveb3b6ff2lo7cy?si=nrHF9pFXRfCAFHLQSMjzFQ
